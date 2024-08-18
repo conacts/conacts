@@ -1,1 +1,1 @@
-Yo, read more [here](https://connorsheehan.us)
+Read more [here](https://connorsheehan.us)
